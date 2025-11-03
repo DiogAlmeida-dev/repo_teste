@@ -11,3 +11,4 @@ y = c(3,7,6,12)
 
 #calculando a correlacao 
 cor(x, y)
+
